@@ -5,6 +5,5 @@
 	<classpathentry kind="src" path="unittests"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="C:/Users/Eli/Documents/Mockito jar/mockito-all-1.9.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Tyler/Desktop/CoffeMaker-Test/mockito-all-1.9.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
